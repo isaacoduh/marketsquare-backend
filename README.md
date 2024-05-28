@@ -9,6 +9,7 @@ This document outlines the current progress and future tasks for the MarketSquar
 #### Onboarding
 
 - [x] User Can Create Account
+- [x] User can Login
 
 ### Future Tasks
 
